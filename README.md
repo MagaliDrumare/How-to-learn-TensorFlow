@@ -1,6 +1,5 @@
 # TensorFlow (@Google)
 
-![alt tag](https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiMhOe9x7bWAhXFnBoKHcS4B4cQjRwIBw&url=https%3A%2F%2Fwww.tensorflow.org%2F&psig=AFQjCNFtXveXbczIsUsmx97fLZVo2Kx3Pw&ust=1506092913550290)
 
 **TensorFlow** is an open source software library for numerical computation using data flow graphs. 
 Nodes in the graph reprensents mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This flexible archirecture allows to deploy computation to one or more CPUs or GPUs in a desktop, server or mobile device without rewriting code. TensorFlow includes TensorBoard, a data visualization toolkit. 
